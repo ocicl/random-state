@@ -1,0 +1,9 @@
+* random-state
+
+A collection of portable random generators for Common Lisp
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/Shinmera/random-state.git |
+| commit  | ca7cd5a                                          |
+| systems | random-state                                     |
+|---------+--------------------------------------------------|
