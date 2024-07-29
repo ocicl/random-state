@@ -4,6 +4,6 @@ A collection of portable random generators for Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/Shinmera/random-state.git |
-| commit  | 9d7bf42                                          |
+| commit  | e59365d                                          |
 | systems | random-state                                     |
 |---------+--------------------------------------------------|
