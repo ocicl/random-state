@@ -3,7 +3,7 @@
 A collection of portable random generators for Common Lisp
 
 |---------+--------------------------------------------------|
-| source  | git:https://github.com/Shinmera/random-state.git |
-| commit  | 8f1595c                                          |
+| source  | git:https://codeberg.org/shinmera/random-state.git |
+| commit  | 0000000                                          |
 | systems | random-state                                     |
 |---------+--------------------------------------------------|
